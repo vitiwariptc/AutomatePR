@@ -1,5 +1,5 @@
 
-name: Merge PR on Approval
+name: main
 
 on:
   pull_request_review:
