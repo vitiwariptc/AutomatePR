@@ -1,4 +1,4 @@
-name: main1
+name: merge-on-approval
 
 on:
   pull_request_review:
